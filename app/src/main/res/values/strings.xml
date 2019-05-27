@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">creation</string>
+    <string name="space_for_question_nspace_for_question_nspace_for_question_n">Space for Question \n Space for Question  \nSpace for Question</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="next">NEXT</string>
+    <string name="road_safety_quiz">ROAD SAFETY QUIZ</string>
+    <string name="start">START</string>
+</resources>
